@@ -1,0 +1,12 @@
+﻿Ana;AC;1563
+Maria;BA;1495
+Jose;RJ;3469
+Pedro;SP;4235
+Julia;DF;1563
+Mariana;AC;1495
+Mateus;RJ;3469
+Rodrigo;SP;8235
+Julia;ES;3222
+Bruna;RS;5274
+Flavia;MS;4964
+Eduardo;AM;2993

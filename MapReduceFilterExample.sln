@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{122BEE5D-F6AD-4EC4-8DC0-3D4B3A53DF97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapReduceFilterExample", "src\MapReduceFilterExample\MapReduceFilterExample.csproj", "{FD2CA02F-77E8-42F8-8CDC-3DA1F9D5DB6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solutionitens", "Solutionitens", "{264D93CB-22DB-4E09-81BB-F518D8DAAB3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2CA02F-77E8-42F8-8CDC-3DA1F9D5DB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2CA02F-77E8-42F8-8CDC-3DA1F9D5DB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2CA02F-77E8-42F8-8CDC-3DA1F9D5DB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2CA02F-77E8-42F8-8CDC-3DA1F9D5DB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FD2CA02F-77E8-42F8-8CDC-3DA1F9D5DB6C} = {122BEE5D-F6AD-4EC4-8DC0-3D4B3A53DF97}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A517EE6-3E3D-4FA5-B2E2-13F0B3F15FEB}
+	EndGlobalSection
+EndGlobal
