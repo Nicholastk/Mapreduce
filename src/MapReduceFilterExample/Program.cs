@@ -3,8 +3,11 @@ using System.Reflection;
 
 
 List<Employee> lista = new List<Employee>();
-var lines = File.ReadAllLines(@"Employees.txt"); 
+var lines = File.ReadAllLines(@"Employees.txt");
 
+
+Console.WriteLine("###Source###");
+Console.WriteLine("");
 
 foreach (var line in lines)
 {
@@ -24,8 +27,9 @@ foreach (var item in lista)
 }
 
 
-
-Console.Write("MapReduce");
+Console.WriteLine("");
+Console.WriteLine("MapReduce");
+Console.WriteLine("");
 
 var mapreduce = lista.OrderBy(x => x.Estado).GroupBy(x => x.Estado).Select(x => // mapreduce 
  new
